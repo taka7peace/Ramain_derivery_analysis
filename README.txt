@@ -1,4 +1,5 @@
 Welcome to our repository
 I am from Japan
-Ayooooooo what's up hehe
-6 feet!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+tried my projects to English
+Ayooooooo what's up ha
+
