@@ -1,5 +1,5 @@
-Welcome to our repository
+Welcome to my repository
 I am from Japan
-tried my projects to English
-Ayooooooo what's up ha
-
+I tried my intern projects translate to English
+thank you so much 
+i love people who working hard for better world and respect, peace!
