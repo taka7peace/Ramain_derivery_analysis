@@ -8,7 +8,7 @@ Ramain_delivery3.ipynb
 
 Welcome to my repository
 
-thank you so much for visiting
+thank you for visiting
 
 ## Sample Reports from Output Ramain_delivery3
 
