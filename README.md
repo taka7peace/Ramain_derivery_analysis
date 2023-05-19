@@ -1,14 +1,13 @@
 # Ramain Delivery Analysis(1,2,3)
 
-Ramain_delivery1.ipynb
-
-Ramain_delivery2.ipynb
-
-Ramain_delivery3.ipynb
-
-Welcome to my repository
-
 thank you for visiting
+
+Ramain_delivery1.ipynb : Preparation for Analysis, Visualize and analyze data, Build a visualization mechanism,Build a reporting system
+
+Ramain_delivery2.ipynb : Build an analysis system, Processing data for machine learning, Build a machine learning model
+
+Ramain_delivery3.ipynb : Predicting New Data with the Machine Learning Model, Create a small-scale machine learning system, Create a dashboard for a machine learning system
+
 
 ## Sample Reports from Output Ramain_delivery3
 
