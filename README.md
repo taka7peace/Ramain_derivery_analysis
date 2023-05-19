@@ -9,32 +9,34 @@ thank you so much for visiting
 ## Sample Reports from Output Ramain_delivery3
 
 ### for Headquarters 
-![Screenshot 2023-05-19 115957](https://github.com/taka7peace/intern_project_Eng/assets/114953599/c937033d-20c7-485c-b5a7-d70bf3f8d780)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/18eb9bd2-c0e4-43da-8f99-5a92ff560c5d)
+
+
 
 ### for Maebashi Store = *前橋店
-![Screenshot 2023-05-19 120421](https://github.com/taka7peace/intern_project_Eng/assets/114953599/5411791f-d441-431d-954c-e583189c8ad2)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/1eedca62-cb0d-4ec4-9fa5-4e7210e6639d)
 
 ### Prediction Results 
-![Screenshot 2023-05-19 120205](https://github.com/taka7peace/intern_project_Eng/assets/114953599/735c13c0-40f8-4744-800d-1f989bb5310f)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/b765e7e4-1e92-457d-8bb4-da442a0b4d18)
 
 
 ### heat map
-![Screenshot 2023-05-19 122302](https://github.com/taka7peace/intern_project_Eng/assets/114953599/1345934b-9e5d-4b89-9154-14fb9e6a335b)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/99376908-e2bb-4be9-84b1-3f8eff6e14af)
 
 ### Accuracy Trends
-![Screenshot 2023-05-19 122321](https://github.com/taka7peace/intern_project_Eng/assets/114953599/16850002-2f68-4947-bd5e-f27bf2356dd9)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/c2552b08-2abe-40a7-ba66-2955065eabb7)
 
 ### Dash Board
-![Screenshot 2023-05-19 122138](https://github.com/taka7peace/intern_project_Eng/assets/114953599/eacad753-a32b-4ebc-9c2f-11d8777937a8)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/b1dcfdf7-049e-43c4-8120-2b12c88b269f)
 
-![Screenshot 2023-05-19 122203](https://github.com/taka7peace/intern_project_Eng/assets/114953599/77da914d-e8fd-49e7-aacd-3d0ffe8dd52e)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/d184a41f-42c2-4fc2-ba90-6212fd5624b8)
 
 
 ### Result for importance 
-![Screenshot 2023-05-19 122557](https://github.com/taka7peace/intern_project_Eng/assets/114953599/12b84b8c-8c0b-4ccf-8214-32da8b52c807)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/4892ce2c-48d6-4561-8fed-24c56ffeea1e)
 
 ### Result for prediction 
-![Screenshot 2023-05-19 122625](https://github.com/taka7peace/intern_project_Eng/assets/114953599/93fde1bf-e81d-4df4-8214-3aeb4e240586)
+![image](https://github.com/taka7peace/Ramain_derivery_analysis/assets/114953599/7096992f-ec4b-42ff-adfd-143c0bd5345e)
 
 
 ### Mid Review(part 1,2)
