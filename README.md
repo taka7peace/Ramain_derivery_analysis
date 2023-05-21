@@ -43,7 +43,7 @@ Ramain_delivery3.ipynb : Predicting New Data with the Machine Learning Model, Cr
 
 
 ### Mid Review(part 1,2)
-The rate of improvement has varied from store to store, and I feel that simply reporting the results of the previous month's time to serve Ramen is insufficient information. Therefore, they would like to help store staff by using machine learning to make predictions. I have found that the shorter the time to serve ramen, the lower the cancellation rate tends to be. 
+The rate of improvement has varied from store to store, and I feel that simply reporting the results of the previous month's time to serve Ramen is insufficient information. Therefore, I would like to help store staff by using machine learning to make predictions. I have found that the shorter the time to serve ramen, the lower the cancellation rate tends to be. 
 I set the task of shortening the time until the ramen is served. Some stores review their workflow and fix the waste until the ramen is served. I believe that such efforts can be improved by sharing self-help efforts by stores company-wide and by reviewing common flows at headquarters.
 In addition, at one store, the store manager reviews the data and reassigns people so that the supply-demand balance is achieved. 
 
